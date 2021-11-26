@@ -1,0 +1,63 @@
+/* Colores de los Fondos */
+
+.fondoVerdoso{
+    background-color: #1abb9b;
+}
+
+.fondoAzul{
+    background-color: #0bfdfd;
+}
+
+.fondoMorado{
+    background-color: #9750b3;
+}
+
+/* Bordes UwU */
+
+.bordeBPunteado{
+    border: #FFFFFF 
+    4px dashed;
+}
+
+.bordeRPunteado{
+    border: #a31008
+    4px dashed;
+}
+
+.bordeBSolido{
+    border: #FFFFFF 
+    3px solid;
+}
+
+/* Colores Letras */ 
+
+.letraBlanca{
+    color: #FFFFFF;
+    font-size: 45px;
+    padding: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 4px;
+    margin-right: 4px;  
+}
+
+.letraNegra1{
+    color: #000000;
+    padding-top: 3px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.letraNegra2{
+    color: #000000;
+    margin-right: 3px;
+    margin-left: 3px;
+    margin-bottom: 3px;
+}
+
+.letraNegra3{
+    font-size: 37px;
+    color: #000000;
+    padding: 1px;
+}
+
